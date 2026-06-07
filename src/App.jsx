@@ -11,6 +11,7 @@ function App() {
       <h1>Resume </h1>
       <GeneralInfo />
       <EducationSection />
+      <Experience />
     </>
   )
 }
